@@ -25,3 +25,14 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+span{
+  color: #716F6F;
+  font-weight: bold;
+  font-size: 11px;
+  letter-spacing: 2px;
+}
+
+strong{
+  color: #854DFF;
+} 
